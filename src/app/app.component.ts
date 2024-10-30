@@ -9,5 +9,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'Linguistic theories and experiments by Rahul Bali'
+  title = 'Linguistic theory and experiments by Rahul Bali'
 }
