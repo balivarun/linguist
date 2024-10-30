@@ -1,8 +1,6 @@
-# Angular Starter
+# Linguist project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/angular-starter)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9590a3ff-d4dd-4999-972f-b4a102c59896/deploy-status)](https://app.netlify.com/sites/tiny-kangaroo-50ae23/deploys)
 
 ## Development server
 
