@@ -1,27 +1,26 @@
-
 .linguist-title {
     font-family: "Pridi", serif;
     font-weight: 500;
     font-size: 50px;
-  }
+}
 
-.linguist-subtitle{
+.linguist-subtitle {
     font-family: "Pridi", serif;
     font-weight: 500;
     font-size: 13px;
     z-index: 1;
-    position:relative;
-    left:53% ;
-    
+    position: relative;
+    left: 53%;
+
 }
 
-.linguist-search{
+.linguist-search {
     margin: 0;
     padding: 0;
 }
 
 
-.linguist-header{
+.linguist-header {
     padding: 30px;
     margin: 20px;
     display: flex;
@@ -30,17 +29,10 @@
     border-radius: 20px;
     flex-direction: row;
     align-items: center;
-    background-color: rgb(236, 126, 57);
 }
 
-.linguist-menu{
+.linguist-menu {
     margin: 0;
     padding-right: 20px;
     margin-left: auto;
 }
-
-.menu-button{
-background-color: rgb(236, 126, 57);
-border: 0;
-}
-
