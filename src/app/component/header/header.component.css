@@ -1,38 +1,38 @@
 .linguist-title {
-    font-family: "Pridi", serif;
-    font-weight: 500;
-    font-size: 50px;
+	font-family: "Pridi", serif;
+	font-weight: 500;
+	font-size: 50px;
 }
 
 .linguist-subtitle {
-    font-family: "Pridi", serif;
-    font-weight: 500;
-    font-size: 13px;
-    z-index: 1;
-    position: relative;
-    left: 53%;
+	font-family: "Pridi", serif;
+	font-weight: 500;
+	font-size: 13px;
+	z-index: 1;
+	position: relative;
+	left: 53%;
 
 }
 
 .linguist-search {
-    margin: 0;
-    padding: 0;
+	margin: 0;
+	padding: 0;
 }
 
 
 .linguist-header {
-    padding: 30px;
-    margin: 20px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    border-radius: 20px;
-    flex-direction: row;
-    align-items: center;
+	padding: 30px;
+	margin: 20px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border-radius: 20px;
+	flex-direction: row;
+	align-items: center;
 }
 
 .linguist-menu {
-    margin: 0;
-    padding-right: 20px;
-    margin-left: auto;
+	margin: 0;
+	padding-right: 20px;
+	margin-left: auto;
 }
